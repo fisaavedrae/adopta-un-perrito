@@ -4,6 +4,6 @@ import Badge from 'react-bootstrap/Badge';
 
 export default function Tag({ texto, color }) {
     return (
-        <Badge bg={color}>{texto}</Badge>
+        <Badge bg={color}>{texto}</Badge>  /* Uso del componente Badge de Boostrap */
     );
 }

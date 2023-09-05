@@ -1,9 +1,9 @@
 import React from 'react';
 
-export default function Header() {
+export default function Header({ titulo }) {
     return (
         <div className="header">
-            <h1>Adopta un perrito</h1>
+            <h1>{titulo}</h1>
         </div>
     )
 }
