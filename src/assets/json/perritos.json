@@ -8,44 +8,51 @@
     },
     {
         "urlImagen": "https://cdn.pixabay.com/photo/2022/07/18/19/57/dog-7330712_1280.jpg",
-        "nombre=": "Messi",
+        "nombre": "Messi",
         "descripcion": "Es jueguetón, amigable y se lleva bien con niños y otros animales. !Haz de Messi parte de tu familia hoy mismo!",
         "badge": "Husky",
         "colorBadge": "danger"
     },
     {
         "urlImagen": "https://cdn.pixabay.com/photo/2020/07/20/06/42/english-bulldog-5422018_1280.jpg",
-        "nombre=": "Gohan",
+        "nombre": "Gohan",
         "descripcion": "Un perrito de tamaño mediano que se adapta a cualquier ambiente. !Dale a Gohan el hogar amoroso que se merece!",
         "badge": "Bulldog",
         "colorBadge": "warning"
     },
     {
         "urlImagen": "https://cdn.pixabay.com/photo/2021/05/09/10/51/dalmatian-6240486_1280.jpg",
-        "nombre=": "Princesa",
+        "nombre": "Princesa",
         "descripcion": "Es una compañera muy amigable. !Dale a Princesa el hogar amoroso que se merece!",
         "badge": "Dalmata",
         "colorBadge": "primary"
     },
     {
         "urlImagen": "https://cdn.pixabay.com/photo/2016/02/19/15/46/labrador-retriever-1210559_1280.jpg",
-        "nombre=": "Ronaldo",
+        "nombre": "Ronaldo",
         "descripcion": "Un gran amigo y compañero. !Dale a Ronaldo el hogar amoroso que se merece!",
         "badge": "Labrador",
         "colorBadge": "warning"
     },
     {
         "urlImagen": "https://cdn.pixabay.com/photo/2022/07/12/17/12/dog-7317820_1280.jpg  ",
-        "nombre=": "Gaston",
+        "nombre": "Gaston",
         "descripcion": "Fiel y serio, listo para jugar. !Dale a Gaston el hogar amoroso que se merece!",
         "badge": "Poodle",
         "colorBadge": "success"
     },
     {
         "urlImagen": "https://cdn.pixabay.com/photo/2020/01/21/16/26/yorkshire-terrier-4783327_1280.jpg",
-        "nombre=": "Yorki",
+        "nombre": "Yorki",
         "descripcion": "Regalon, amigable y muy cariñoso. !Dale a Bartolo el hogar amoroso que se merece!",
         "badge": "Yorkshire",
         "colorBadge": "secondary"
+    },
+    {
+        "urlImagen": "https://cdn.pixabay.com/photo/2019/08/19/07/45/corgi-4415649_1280.jpg",
+        "nombre": "Reina",
+        "descripcion": "La mejor amiga que puedas tener. !Dale a Reina el hogar amoroso que se merece!",
+        "badge": "Corgi",
+        "colorBadge": "secosuccessndary"
     }
 ]
