@@ -10,9 +10,9 @@ function App() {
 
   return (
     <>
-      <div class="container">
+      <div className="container">
         <Header titulo="Adopta un perrito" /> { /* Uso componente Header */}
-        <div class="galeria">
+        <div className="galeria">
           { /* Uso de los componentes Card, la informacion de los perritos se encuentra en el archivo json, use este metodo para no tener codigo redundante. Adicionalmente deje un archivo App.jsx donde esta sin usar el json */}
           {json.map((perrito) => (
             <Card urlImagen={perrito.urlImagen} nombre={perrito.nombre} descripcion={perrito.descripcion} badge={perrito.badge} colorBadge={perrito.colorBadge} />

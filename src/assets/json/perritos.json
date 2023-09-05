@@ -53,6 +53,6 @@
         "nombre": "Reina",
         "descripcion": "La mejor amiga que puedas tener. !Dale a Reina el hogar amoroso que se merece!",
         "badge": "Corgi",
-        "colorBadge": "secosuccessndary"
+        "colorBadge": "success"
     }
 ]
