@@ -6,13 +6,14 @@ body {
   box-sizing: border-box;
   background-color: hsl(0, 0%, 98%);
   font-family: 'Nunito Sans', sans-serif;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
 }
 
 #root {
   max-width: 100%;
-  display: flex;
-  justify-content: center;
-  flex-direction: column;
+
 }
 
 .container {
@@ -25,9 +26,6 @@ body {
   gap: 30px;
 }
 
-.header {
-  text-align: center;
-}
 
 .header h1 {
   text-align: center;
@@ -51,14 +49,15 @@ body {
   align-items: center;
   border-radius: 10px;
   background-color: hsl(0, 0%, 100%);
-  box-shadow: 1px 1px 10px hsl(0, 0%, 80%);
-  width: 200px;
+  box-shadow: 1px 1px 25px hsl(0, 0%, 80%);
+  width: 220px;
   gap: 20px;
+  padding-bottom: 10px;
 }
 
 .fotoPerro {
-  width: 200px;
-  height: 130px;
+  width: 220px;
+  height: 150px;
   border-radius: 10px 10px 0px 0px;
 }
 
@@ -71,17 +70,7 @@ body {
   padding-right: 10px;
 }
 
-.badge {
-  margin-bottom: 10px;
-  background-color: hsl(209, 23%, 22%);
-  color: hsl(0, 0%, 100%);
-  font-weight: 300;
-  height: 30px;
-  width: 90%;
-  text-align: center;
-  padding-top: 5px;
-  border-radius: 5px;
-}
+
 
 .footer {
   font-size: 20px;

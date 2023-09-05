@@ -1,9 +1,9 @@
 import React from 'react';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import Badge from 'react-bootstrap/Badge';
 
-export default function Tag(texto, color) {
+export default function Tag({ texto, color }) {
     return (
-        <div className="tag">
-            {texto}
-        </div>
+        <Badge bg={color}>{texto}</Badge>
     );
 }
