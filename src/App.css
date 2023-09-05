@@ -42,7 +42,7 @@ body {
   gap: 20px;
 }
 
-.cardx {
+.tarjeta {
   display: flex;
   justify-content: space-between;
   flex-direction: column;
